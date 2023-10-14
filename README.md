@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, this is fahad a front-end developer 👋
 
 <!--
 **fahadmun06/fahadmun06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
