@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Muhammad Fahad</h1>
-<h3 align="center">A passionate React developer. With Firebase as my trusted backend, I craft interactive and seamless web experiences. Explore my projects and let's bring your ideas to life</h3>
+<h1>Hi 👋, I'm Muhammad Fahad</h1>
+<h3>A passionate React developer. With Firebase as my trusted backend, I craft interactive and seamless web experiences. Explore my projects and let's bring your ideas to life</h3>
 
 - 🔭 I’m currently working on [Book Ecommerce Website](https://bookboutique-c7d7b.web.app/)
 
